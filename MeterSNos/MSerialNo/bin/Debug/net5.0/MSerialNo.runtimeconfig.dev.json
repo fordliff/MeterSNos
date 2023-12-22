@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Kliff\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Kliff\\.nuget\\packages"
+    ]
+  }
+}

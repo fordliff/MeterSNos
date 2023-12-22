@@ -1,0 +1,5 @@
+E:\Pub\MSerialNo.exe
+E:\Pub\MSerialNo.dll
+E:\Pub\MSerialNo.deps.json
+E:\Pub\MSerialNo.runtimeconfig.json
+E:\Pub\MSerialNo.pdb

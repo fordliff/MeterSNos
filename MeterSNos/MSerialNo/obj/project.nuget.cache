@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Rpank5HwRXxkiCjThI8FonqYnMPoj5Cv+yBFAyPbIXzyKRUj3thOykwX966wdAEF67AGL8LbTCh1lWgf7MWwhQ==",
+  "success": true,
+  "projectFilePath": "E:\\Programs\\DotNet2023\\MSerialNo\\MSerialNo\\MSerialNo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kliff\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
